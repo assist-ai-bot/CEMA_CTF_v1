@@ -1,0 +1,24 @@
+Submit the ten flags in the CTF portal at https://13-200-126-136.sslip.io.
+This sheet is for your own notes. Replace each empty brace, and under each
+flag write two to four sentences about how you recovered it. Shortlisted
+candidates will be asked to explain their actions in a live online interview.
+
+1. Intern_Pro_Max{}
+
+2. Intern_Pro_Max{}
+
+3. Intern_Pro_Max{}
+
+4. Intern_Pro_Max{}
+
+5. Intern_Pro_Max{}
+
+6. Intern_Pro_Max{}
+
+7. Intern_Pro_Max{}
+
+8. Intern_Pro_Max{}
+
+9. Intern_Pro_Max{}
+
+10. Intern_Pro_Max{}
